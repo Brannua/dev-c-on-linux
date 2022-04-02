@@ -73,3 +73,7 @@ More information: https://gcc.gnu.org.
 ![image-20211004124427019](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211004124427019.png)
 
 ![image-20211004124511194](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211004124511194.png)
+
+#### vscode 插件
+
+![image-20211003164514863](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211003164514863.png)
