@@ -22,26 +22,9 @@ cmake --version
 
 - 支持编译（Fortran、C/C++、Objective-C、Objective-C++、Go）等高级编程语言
 
-```bash
-> tldr gcc
+- gcc 官方文档：https://gcc.gnu.org/onlinedocs/
 
-gcc
-
-Preprocess and compile C and C++ source files, then assemble and link them together.
-More information: https://gcc.gnu.org.
-
-...
-
-> tldr g++
-
-g++
-
-Compiles C++ source files.
-Part of GCC (GNU Compiler Collection).
-More information: https://gcc.gnu.org.
-...
-
-```
+- 而用于编译 .cpp file 的 g++ 只是 gcc 的一部分
 
 #### gdb 调试器
 
