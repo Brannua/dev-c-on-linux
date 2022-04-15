@@ -1,5 +1,3 @@
-> Try on manjaro-linux，参考[视频教程](https://www.bilibili.com/video/BV1fy4y1b7TC)
-
 #### Install（gcc、gdb、cmake）
 
 ```bash
