@@ -45,16 +45,16 @@ cmake --version
 
 - 支持以简单的语句描述所有平台中代码的编译过程
 
-![image-20211004123314478](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211004123314478.png)
+![image-20211004123314478](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20211004123314478.png)
 
-![image-20211004123944886](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211004123944886.png)
+![image-20211004123944886](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20211004123944886.png)
 
-![image-20211004124210150](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211004124210150.png)
+![image-20211004124210150](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20211004124210150.png)
 
-![image-20211004124427019](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211004124427019.png)
+![image-20211004124427019](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20211004124427019.png)
 
-![image-20211004124511194](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211004124511194.png)
+![image-20211004124511194](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20211004124511194.png)
 
 #### vscode 插件
 
-![image-20211003164514863](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20211003164514863.png)
+![image-20211003164514863](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20211003164514863.png)
