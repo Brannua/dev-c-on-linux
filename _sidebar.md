@@ -6,4 +6,3 @@
 - [实战：库文件的生成和链接（静态库 & 动态库）](/docs/5.md)
 - [实战：在 vscode 中开发 c/c++ 项目](/docs/6.md)
 - [实战：CMake 的使用](/docs/7.md)
-- [配置 vscode 的 json 文件，用 vscode 调试项目](/docs/8.md)
